@@ -1,0 +1,5 @@
+# Internal/confidential material — contains non-public company metrics and deal details.
+# Remove this line only if the repo is private and you intend to commit it.
+investment-memos/
+
+.DS_Store
