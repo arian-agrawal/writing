@@ -7,6 +7,7 @@ A collection of my essays, blog posts, and theses.
 - **[essays/](essays/)** — Longer-form pieces on tech and investing
   - [What is GTM in Deeptech?](essays/what-is-gtm-in-deeptech.md) — Why go-to-market means something different for deep tech founders
   - [Notes from the Global Industrials Forum](essays/global-industrials-forum.md) — Power, materials, and the industrial story behind AI
+  - [Notes from Jason Rathje on Selling to the Government](essays/selling-to-the-government-jason-rathje.md) — Funding buckets, SBIR mechanics, and why founders should talk to Congress early
 - **[blog/](blog/)** — Blog posts and event recaps
   - [The Validation Stage](blog/the-validation-stage.md) — How to know you're in it and how to get through it
   - [NFT NYC Week at SPC](blog/nft-nyc-week-at-spc.md) — Recap of NFTNYC/ETHNYC week at South Park Commons
